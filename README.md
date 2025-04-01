@@ -43,7 +43,7 @@ java-chained-conditions/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/java-chained-conditions.git
+   git clone https://github.com/Tinyu01/java-chained-conditions.git
    cd java-chained-conditions
    ```
 
